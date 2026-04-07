@@ -4,7 +4,7 @@
 
 <br/>
 
-## 👩‍💻 About my technical profile
+## 👨‍💻 About my technical profile
 
 I am a Systems Engineering student and an active **IEEE** member, deeply involved in the **Computer Society** and **IAS (Industry Applications Society)**. My focus lies at the convergence of network infrastructure, software development, and cybersecurity. I enjoy building robust solutions and understanding the mathematics and electronics behind complex systems.
 
